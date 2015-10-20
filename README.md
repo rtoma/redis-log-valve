@@ -139,7 +139,7 @@ Jcollectd XML config for this appender:
 </jcollectd-config>
 ```
 
-## TODO
+# Future plans
 
 Some ideas for future improvements:
 
@@ -149,7 +149,16 @@ Some ideas for future improvements:
 * got ideas? let me know
 
 
+# Contribution
+
+Feel free to create an issue or submit a pull request.
+
 
 # License
 
 Published under Apache Software License 2.0, see LICENSE
+
+
+# Acknowledgement
+
+This program was originally developed by bol.com and published as Open Source on github.
