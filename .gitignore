@@ -1,0 +1,4 @@
+*.jar
+*.rpm
+deploy.sh
+build-rpm.sh
