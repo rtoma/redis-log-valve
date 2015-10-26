@@ -149,6 +149,13 @@ Some ideas for future improvements:
 * got ideas? let me know
 
 
+# Contributors
+
+* [Renzo Toma](https://github.com/rtoma/)
+* [Roland Kool](https://github.com/rolandkool/)
+* Luis Novais
+
+
 # Contribution
 
 Feel free to create an issue or submit a pull request.
